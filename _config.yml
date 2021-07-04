@@ -1,6 +1,6 @@
 layout: page
 name: Welcome to my World
 description: Chronicles of my adventures in coding
-url: "https://coutureb.github.io"
+permalink: "https://coutureb.github.io"
 
 theme: jekyll-theme-architect
